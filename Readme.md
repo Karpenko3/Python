@@ -1,3 +1,1 @@
-Additional file to try my repo
-
-Python code;//
+Python for AI and Data Science 
